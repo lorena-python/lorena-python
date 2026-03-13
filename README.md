@@ -1,16 +1,29 @@
-## Hi there 👋
+# Lorena García Vila
 
-<!--
-**lorena-python/lorena-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Full Stack Developer 
 
-Here are some ideas to get you started:
+## Tecnologías
+- Python
+- Django
+- HTML
+- CSS
+- Git
+- Análisis de datos (Pandas, NumPy, Matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### Web "Tu Mascota"
+Tienda web de productos para mascotas desarrollada con HTML y CSS.
+
+### Biblioteca con Django
+Aplicación web para gestión de libros, autores y editoriales.
+
+### Análisis de datos con Python
+Proyecto de análisis de datos usando Pandas y visualización con Matplotlib.
+
+### QA Testing
+Documentación de pruebas funcionales y casos de prueba para aplicaciones web.
+
+## Formación
+Máster Python Full Stack Developer  
+INTECSSA (2025-2026)
